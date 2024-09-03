@@ -1,0 +1,11 @@
+A = O próximo número será, pois é uma sequência de ímpares
+
+B = O próximo número será 128, pois cada número é resuldado de uma potência de 2 
+
+C = O próximo número será 49, pois a sequência é o resultado de quadrados perfeitos de cada número
+
+D = O próximo número é 100, o resultado é de quadrados de números com base pares
+
+E = O próximo número será 13, pois é uma sequência de fibonacci sendo cada número a soma dos dois números anteriores
+
+F = É um aumento sem clareza matemática, poderia ter um padrão mais complexo e objetivo

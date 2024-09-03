@@ -1,0 +1,17 @@
+Passo 1:
+A, B e C são os interruptores
+
+Ligue o interruptor A e espere alguns minutos.
+Ligue o interruptor B e vá imediatamente para a sala das lâmpadas.
+Interruptor C, não mexa nele deixe desligado.
+
+Passo 2:
+Vamos imaginar que X, Y e Z são as lâmpadas
+
+Lâmpada acesa X: É controlada pelo interruptor B, pois você acabou de ligá-lo.
+Lâmpada apagada e quente Y: É controlada pelo interruptor A, pois ele foi ligado antes e teve tempo de aquecer a lâmpada.
+Lâmpada apagada e fria Z: É controlada pelo interruptor C, pois é a lampada que está fria, porque não foi ligada
+
+b controla x 
+a controla Y
+c controla z
